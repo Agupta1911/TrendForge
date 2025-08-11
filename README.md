@@ -1,4 +1,4 @@
-# TrendForge Enhanced 📈 
+# TrendForge 📈 
 *High-Frequency Stock Analysis Engine with REST API*
 
 ![Java](https://img.shields.io/badge/Java-17%2B-blue)
